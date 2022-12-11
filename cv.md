@@ -7,6 +7,7 @@ Sergey Chumachenkov
 **Contacts**
 
 Email: steeampunk001@gmail.com
+
 Telegram: @SteamPunk001
 
 *********
@@ -20,6 +21,7 @@ Passionate and motivated student from rs school frontend course with a desire to
 **Skills**
 
 \- HTML
+
 \- CSS
 
 *********
