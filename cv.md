@@ -47,4 +47,5 @@ RS Schools Course "JavaScript/Front-end. Stage 0" (in progress)
 **Languages**
 
 Russian: Native
+
 English: B1
